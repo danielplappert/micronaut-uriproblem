@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: uriproblem
+
+api:
+  url: http://dockerstack_dockerservice
